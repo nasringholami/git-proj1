@@ -3,3 +3,9 @@ body {
   margin: 0px;
   box-sizing: border-box;
 }
+
+div {
+  width: 200px;
+  height: 400px;
+  background-color: darkslategray;
+}
