@@ -4,8 +4,8 @@ body {
   box-sizing: border-box;
 }
 
-div {
-  width: 200px;
+#d1 {
+  width: 400px;
   height: 400px;
-  background-color: darkslategray;
+  background-color: greenyellow;
 }
